@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hannaalfi
+- 👋 Hi, I’m Hanna Ashenafi
 - 👀 I’m interested in Coding and like minded people
 - 🌱 I’m currently learning Software Engineering at ALX 
 - 💞️ I’m looking to collaborate on creating new things that will use to our society.
